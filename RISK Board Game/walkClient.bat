@@ -1,0 +1,1 @@
+java -cp .;ocsf.jar;jgoodies-common-1.4.0.jar;jgoodies-forms-1.6.0.jar;jgoodies-forms-1.8.0.jar;jgoodies-forms-1.8.0-sources.jar;mysql-connector-java-5.1.40-bin.jar project.ClientGUI Client
